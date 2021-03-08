@@ -14,6 +14,7 @@ class Git extends Controller
         echo "this is the 3rd change";
         echo "this is the 4th change";
         echo"this is 5th change";
+        echo "this is 6th change";
 
     }
 
